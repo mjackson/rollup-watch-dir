@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "dependencies": {
+    "chokidar": "^3.4.1",
+    "rollup": "^2.23.0",
+    "tmp": "^0.2.1"
+  }
+}
